@@ -16,3 +16,5 @@
 | 18/09/2026 | Move Zeroes | Basic Algorithms | Easy | ☑ Solved | 10 min |
 
 | 18/09/2026 | Valid Parentheses | Stacks | Easy | ☑ Solved | 20 min |
+
+| 18/09/2026 | Reverse Linked List | Linked Lists | Easy | ☑ Solved | 15 min |
